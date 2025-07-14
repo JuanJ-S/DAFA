@@ -20,4 +20,4 @@ Conjunto de sensores conectados a un microcontrolador central (ESP32), que monit
 Pendiente -> ¿Como que poster :c?
 # Banner de Implementación del Proyecto
 En proceso. Imagen preliminar
-![Implementación Preliminar](Imagenes\Fotitos\Implementación - Premilinar.jpeg)
+![Implementación Preliminar]("Imagenes\Fotitos\Implementación - Premilinar.jpeg")
