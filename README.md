@@ -21,3 +21,10 @@ Pendiente -> ¿Como que poster :c?
 # Banner de Implementación del Proyecto
 En proceso. Imagen preliminar
 ![Implementación Preliminar](Imagenes/Fotitos/Implementación%20-%20Premilinar.jpeg)
+# Video del Proyecto
+Explicacion de: 
+    - Problematica
+    - Solución Planteada
+    - Criterios para la toma de soluciones
+    - Funcionamiento del proyecto para el usuario
+    - Recomendaciones y Conclusiones
